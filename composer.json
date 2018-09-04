@@ -1,6 +1,6 @@
 {
     "name": "esmi/testcomposer",
-    "description": "a composer.json for my composer test.",
+    "description": "a composer.json for my composer test and template.",
     "type": "project",
     "license": "MIT",
     "authors": [
